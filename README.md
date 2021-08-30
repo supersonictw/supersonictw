@@ -14,10 +14,9 @@
     <li>Studying in <a target="_blank" href="https://www.nkust.edu.tw">NKUST</a></li>
 </ul>
 <h3 class="animated fadeInLeft delay-1s">ToDo List for OpenSource Side Projects</h3>
-<p class="animated fadeInLeft delay-2s">Last Update: 2021/08/21</p>
+<p class="animated fadeInLeft delay-2s">Last Update: 2021/08/30</p>
 <ul class="animated fadeInLeft delay-5s">
     <li>[popcat-echo] documentation</li>
-    <li>[popcat-active] design</li>
     <li>[xia] refactor and upgrade to v1</li>
     <li>[matrix-line-bridge] documentation</li>
 </ul>
