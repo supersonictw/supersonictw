@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/supersonictw/supersonictw/master/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
