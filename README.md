@@ -3,7 +3,7 @@
     <p>The one who is working on the romantic opensource community.</p>
     <ul>
         <li>Artificial Intelligence Researcher</li>
-        <li>Cybersecurity Researcher</li>
+        <li>Cyber Security Researcher</li>
         <li>Web Engineer (Full-Stack)</li>
         <li>Hardware Engineer</li>
         <li>Firmware Engineer</li>
