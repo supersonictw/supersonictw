@@ -6,6 +6,7 @@
         <li>Web Engineer (Full-Stack )</li>
         <li>Hardware Engineer</li>
         <li>Firmware Engineer</li>
+        <li>Infrastructure Operations Engineer</li>
         <li>Database Administrator</li>
         <li>UI/UX Designer</li>
     </ul>
