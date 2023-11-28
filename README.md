@@ -2,7 +2,7 @@
     <h3>Let`s think.</h3>
     <p>The one who is working on the romantic opensource community.</p>
     <ul>
-        <li>Machine-Learning Researcher</li>
+        <li>Artificial Intelligence Researcher</li>
         <li>Web Engineer (Full-Stack )</li>
         <li>Hardware Engineer</li>
         <li>Firmware Engineer</li>
