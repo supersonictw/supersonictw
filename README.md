@@ -9,6 +9,8 @@
         <li>Infrastructure Operations Engineer</li>
         <li>Database Administrator</li>
         <li>Business Analyst</li>
+        <li>Project Manager</li>
+        <li>Product Manager</li>
         <li>UI/UX Designer</li>
     </ul>
 </div>
