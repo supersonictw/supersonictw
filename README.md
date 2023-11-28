@@ -10,6 +10,4 @@
 <ul class="animated fadeInLeft delay-3s">
     <li>Full-Stack Engineer</li>
     <li>Computer Scientist</li>
-    <li><a target="_blank" href="https://www.starinc.xyz">Star Inc.</a> Founder &amp; CEO</li>
-    <li>Studying in <a target="_blank" href="https://www.nkust.edu.tw">NKUST</a></li>
 </ul>
