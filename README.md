@@ -1,6 +1,6 @@
 <div>
     <h3>Greeting!</h3>
-    <p>I'm a entry-level software developer.</p>
+    <p>I'm an entry-level software developer.</p>
     <p>Nice to meet you!</p>
 </div>
 
