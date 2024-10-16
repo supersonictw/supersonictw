@@ -8,6 +8,6 @@
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=supersonictw" alt="GitHub Stats Badge" />
     <br />
     <a href="https://gitroll.io/profile/uKo91u8MAXGT2blVaCUeKHn6MJvl1" target="_blank">
-        <img width="390" src="https://gitroll.io/api/badges/profiles/v1/uKo91u8MAXGT2blVaCUeKHn6MJvl1?v=2" alt="GitRoll Profile Badge" />
+        <img width="390" src="https://gitroll.io/api/badges/profiles/v1/uKo91u8MAXGT2blVaCUeKHn6MJvl1?v=3" alt="GitRoll Profile Badge" />
     </a>
 </div>
