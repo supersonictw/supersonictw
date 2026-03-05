@@ -10,4 +10,6 @@
     <a href="https://gitroll.io/profile/uKo91u8MAXGT2blVaCUeKHn6MJvl1" target="_blank">
         <img width="390" src="https://gitroll.io/api/badges/profiles/v1/uKo91u8MAXGT2blVaCUeKHn6MJvl1?v=0" alt="GitRoll Profile Badge" />
     </a>
+    <br />
+    <img width="390" src="space-shooter-output.gif" alt="GitHub Space Shooter" />
 </div>
