@@ -10,7 +10,7 @@
 </div>
 
 <details>
-    <summary>I'm a software developer. (SWE)</summary>
+    <summary>I'm a software developer. (SWE/SA)</summary>
     <div>
         <a href="https://gitroll.io/profile/uKo91u8MAXGT2blVaCUeKHn6MJvl1" target="_blank">
             <img height="200" src="https://gitroll.io/api/badges/profiles/v1/uKo91u8MAXGT2blVaCUeKHn6MJvl1?v=0" alt="GitRoll Profile Badge" />
